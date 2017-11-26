@@ -43,8 +43,13 @@ form input{
 }
 
 .hit{
-    background: url('https://raw.githubusercontent.com/insomnia1337/GraWStatki/gh-pages/images/ship.png') no-repeat center center;
+     background-image: url('https://raw.githubusercontent.com/insomnia1337/GraWStatki/gh-pages/images/ship.png');
+    background-repeat: no-repeat; 
+     background-position: center center;
 }
 .miss{
-    background: url('https://raw.githubusercontent.com/insomnia1337/GraWStatki/gh-pages/images/miss.png') no-repeat center center;
+    background-image: url('https://raw.githubusercontent.com/insomnia1337/GraWStatki/gh-pages/images/miss.png');
+    background-repeat: no-repeat; 
+     background-position: center center;
+    
 }
