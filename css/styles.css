@@ -7,7 +7,7 @@ div#board{
     height: 863px;
     margin: auto;
     background-image: url(/images/board.jpg);
-    background-image: no-repeat;
+    background: no-repeat;
         
 }
 div#messageArea{
